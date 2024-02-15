@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm a software engineer, who belives in meritocracy and constant learning.
+# I'm a software engineer, who belives in meritocracy and focuses on the process of learning.
 
 - 🔭 I’m currently working in HR managamenet domain
 - 🌱 I’m currently creating my knowledge base repository
