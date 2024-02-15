@@ -5,7 +5,7 @@
 - 🔭 I’m currently working in HR managamenet domain
 - 🌱 I’m currently creating my knowledge base repository
 - 💬 My technologies are: .Net / Js / Python
-- ⚡ I am a SUP surfer
+- 🏄 I am a SUP surfer
 
 <!--
 **Korfu/Korfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
