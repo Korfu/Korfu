@@ -3,8 +3,8 @@
 # I'm a software engineer, who belives in meritocracy and focuses on the process of learning.
 
 - 🔭 I’m currently working in HR managamenet domain
-- 🌱 I’m currently creating my knowledge base repository
-- 💬 My technologies are: .Net / Js / Python
+- 🌱 I’m currently excited about AI agents and increasing autonomy of software development
+- 💬 My technologies are: .Net / Js / any other since dawn of Cursor IDE
 - 🏄 I am a SUP surfer
 
 <!--
